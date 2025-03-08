@@ -1,3 +1,4 @@
+//fibonacci number sum
 #include<stdio.h>
 int main()
 {
